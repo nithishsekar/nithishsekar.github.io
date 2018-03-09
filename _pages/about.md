@@ -1,0 +1,16 @@
+---
+permalink: /about/
+title: "About"
+toc: true
+---
+## Introduction
+
+Hello Visitor!
+
+I'm Nithish, a Big Data Engineer from Chennai, India. 
+
+## Purpose
+
+I intend to use this page as a medium to
+- share knowledge about different technologies
+- blog about specific use cases
