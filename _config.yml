@@ -4,4 +4,4 @@ name: "Nithish S"
 description: "An amazing website!"
 
 remote_theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "aqua" 
+#minimal_mistakes_skin    : "aqua" 
