@@ -1,3 +1,6 @@
 
 title: Hello Nithish Here!
+name                     : "Your Name"
+description              : "An amazing website."
+
 remote_theme: "mmistakes/minimal-mistakes"
