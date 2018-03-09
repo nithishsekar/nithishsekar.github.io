@@ -5,7 +5,7 @@ title: "About"
 ---
 ## Introduction
 
-Hello Human Visitor!
+Hello Human Visitors!
 
 I'm Nithish, a Big Data Engineer from Chennai, India. 
 
