@@ -186,7 +186,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
+paginate: 10 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
@@ -244,6 +244,11 @@ compress_html:
   ignore:
     envs: development
 
+collections:
+  blog:
+    output: true
+    permalink: /:collection/:path/
+
 
 # Defaults
 defaults:
@@ -259,7 +264,24 @@ defaults:
       share: true
       related: true
 
+# _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
+  # _blog
+  - scope:
+      path: ""
+      type: blog
+    values:
+      layout: single
+      author_profile: false
+      share: true
+      
 remote_theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "dark" 
+minimal_mistakes_skin: "dark" 
 
 #minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
