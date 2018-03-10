@@ -24,3 +24,5 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Learn More"
 ---
+
+{% include feature_row %}
