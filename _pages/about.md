@@ -1,16 +1,20 @@
 ---
+layout: single
 permalink: /about/
 title: "About"
-#toc: true
+last_modified_at:
+toc: true
 ---
 ## Introduction
 
-Hello Human Visitors!
+Hello Human and Alien Visitors!
 
 I'm Nithish, a Big Data Engineer from Chennai, India. 
 
-## Purpose
+## Skills
 
-I intend to use this page as a medium to
-- share knowledge about different technologies
-- blog about specific use cases
+I intend to use this page to blog about technologies like
+- Spark
+- Hadoop
+- Scala
+- Python
