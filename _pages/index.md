@@ -11,10 +11,10 @@ header:
   #cta_url: "https://github.com/mmistakes/minimal-mistakes/"
   #caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: "Big Data Professional"
+type="center"
 intro:
   - excerpt: 'Hello, fellow lifeforms! I am Nithish Sekar. I am a Big Data Professional with focus on Big Data Engineering and Data Science. I like to learn about the various up and coming technologies in this field and keep myself constantly updated. This blog is my way of giving back to the community.'
 ---
 
-{% include feature_row id="header" type="center" %}
 {% include feature_row id="intro" type="center" %}
 
