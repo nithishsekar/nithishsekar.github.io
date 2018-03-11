@@ -8,4 +8,7 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/unsplash-image-1.jpg
 excerpt: "Hello, fellow lifeforms! I am Nithish Sekar. I am a Big Data Professional with focus on Big Data Engineering and Data Science. I like to learn about the various up and coming technologies in this field and keep myself constantly updated. This blog is my way of giving back to the community."
+#intro:
+# - excerpt: 'Hello, fellow lifeforms! I am Nithish Sekar. I am a Big Data Professional with focus on Big Data Engineering and Data  Science. I like to learn about the various up and coming technologies in this field and keep myself constantly updated. This blog is my way of giving back to the community.' 
+
 ---
