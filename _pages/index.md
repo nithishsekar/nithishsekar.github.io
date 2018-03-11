@@ -1,18 +1,18 @@
 ---
-title: "Splash Page"
+title: "Nithish Sekar"
 layout: splash
 permalink: /
-date: 2016-03-23T11:48:41-04:00
+#date: 2016-03-23T11:48:41-04:00
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /docs/assets/images/unsplash-image-1.jpg
-  cta_label: "Download"
-  cta_url: "https://github.com/mmistakes/minimal-mistakes/"
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
-intro: 
-  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
+  #cta_label: "Download"
+  #cta_url: "https://github.com/mmistakes/minimal-mistakes/"
+  #caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+excerpt: "Big Data Engineer"
+#intro: 
+#  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
 feature_row:
   - image_path: /docs/assets/images/unsplash-gallery-image-1-th.jpg
     alt: "placeholder image 1"
@@ -54,7 +54,7 @@ feature_row4:
     btn_class: "btn--primary"
 ---
 
-{% include feature_row id="intro" type="center" %}
+#{% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
 
