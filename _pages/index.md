@@ -13,4 +13,4 @@ excerpt: "Hello, fellow lifeforms! I am Nithish Sekar. I am a Big Data Professio
 
 ---
 
-#{% include feature_row id="intro" type="center" %}
+<!-- {% include feature_row id="intro" type="center" %} -->
