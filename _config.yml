@@ -8,7 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : ""
-title_separator          : "-"
+title_separator          : ":"
 name                     : "Nithish Sekar"
 description              : "Big Data Engineer"
 url                      : "https://nithishsekar.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -149,8 +149,9 @@ exclude:
   - Rakefile
   - README
   - tmp
-  - /docs # ignore Minimal Mistakes /docs
+#  - /docs # ignore Minimal Mistakes /docs
   - /test # ignore Minimal Mistakes /test
+  - about.md
 keep_files:
   - .git
   - .svn
