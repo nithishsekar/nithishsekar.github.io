@@ -12,3 +12,5 @@ intro:
  - excerpt: "Follow me  &nbsp; [<i class="fab fa-linkedin"></i> nithishsekar](https://linkedin.com/in/nithishsekar){: .btn .btn--linkedin} [<i class="fab fa-google"></i> nithish309@gmail.com](mailto:nithish309@gmail.com){: .btn .btn--google}"
 
 ---
+
+{% include feature_row id="intro" type="center" %}
