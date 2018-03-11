@@ -151,7 +151,7 @@ exclude:
   - tmp
 #  - /docs # ignore Minimal Mistakes /docs
   - /test # ignore Minimal Mistakes /test
-  - about.md
+  - /_pages/about.md
 keep_files:
   - .git
   - .svn
