@@ -1,10 +1,10 @@
 # main links
 main:
-  - title: "About"
-    url: https://nithishsekar.github.io/about/
+  - title: "Blog"
+    url: https://nithishsekar.github.io/blog/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
   #   url: /collection-archive/
-  # - title: "Sitemap"
-#   url: /sitemap/
+  - title: "Sitemap"
+    url: /sitemap/
