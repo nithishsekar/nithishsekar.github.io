@@ -8,3 +8,12 @@ main:
   #   url: /collection-archive/
   - title: "Sitemap"
     url: /sitemap/
+    
+archives:
+  - title: Archives
+    children:
+      - title: "Categories Archive"
+        url: /categories-archive//
+      - title: "Year Archive"
+        url: /year-archive/
+        
